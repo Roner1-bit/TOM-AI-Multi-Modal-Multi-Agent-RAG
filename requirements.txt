@@ -1,0 +1,39 @@
+# TOM AI Workshop Dependencies
+
+# Web UI
+streamlit
+
+# Audio processing
+sounddevice
+soundfile
+numpy
+
+# Speech-to-text
+openai-whisper
+
+# Image processing
+pillow
+
+# Environment variables
+python-dotenv
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+
+# Groq API
+groq
+
+# PDF processing
+pypdf
+
+# Vector store
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+huggingface_hub

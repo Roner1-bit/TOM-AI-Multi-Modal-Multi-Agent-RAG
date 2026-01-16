@@ -61,4 +61,7 @@ python3 01_mic_test.py
 streamlit run 03_streamlit_voice.py
 ```
 
+you could also use the requirements.txt file to install the required libraries by executing   :  pip install -r requirements.txt
+
+
 Happy workshoping!
